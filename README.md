@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0088-merge-sorted-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0162-find-peak-element) |
 ## Matrix
