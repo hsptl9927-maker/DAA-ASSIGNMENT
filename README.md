@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -50,4 +54,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0074-search-a-2d-matrix) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/hsptl9927-maker/DAA-ASSIGNMENT/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
